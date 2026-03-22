@@ -38,3 +38,11 @@ docker run -d -p 3000:3000 devops-app
 * CI/CD automation
 * Containerization using Docker
 * Cloud deployment using AWS
+
+ ---
+
+## ⚙️ Jenkins Pipeline
+This project uses Jenkins to:
+- Clone code from GitHub
+- Build Docker image
+- Deploy container automatically
